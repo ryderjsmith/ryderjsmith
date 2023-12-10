@@ -1,4 +1,5 @@
-### Hi there 👋
+### UWEC 2024 - Bachelors - Computer Science
+
 
 <!--
 **ryderjsmith/ryderjsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
