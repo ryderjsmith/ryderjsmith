@@ -1,4 +1,4 @@
-### UWEC 2024 - Bachelor's of Science - Computer Science
+UWEC 2024 - Bachelor's of Science - Computer Science
 
 Currently finshing school and building projects
 <!--
